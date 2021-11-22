@@ -46,7 +46,7 @@ class MarketModel: #Market Simulator Class
 
     else: # Safety check, don't execute anything if the weights are mis-sized
 
-      # NEEDS TO CHECK FOR THE SIMPLEX BULLSHIT
+      # NEEDS TO CHECK FOR THE SIMPLEX
       # if not in simplex, make it simplex
 
       # ASSUMES w IS ONE DIMENSIONAL VECTOR (hence the above elif)
